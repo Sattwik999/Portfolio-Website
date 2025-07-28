@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "title": "Sattwik Sarkar | Computer Science Student & AI Developer",
+    "description": "Portfolio website showcasing AI/ML projects, quantum computing research, and software development work"
+  },
+  "personal": {
+    "name": "Sattwik Sarkar",
+    "title": "Computer Science Student & AI Developer",
+    "location": "Chennai, India",
+    "avatar": "/sattwik-profile.jpg",
+    "email": "sattwiksarkar999@gmail.com",
+    "phone": "+91-9800295650",
+    "availableForWork": true,
+    "badges": ["AI/ML", "Quantum Computing", "Full Stack Development"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/Sattwik999",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sattwik-sarkar999",
+        "icon": "Linkedin"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://x.com/its_me_sat999",
+        "icon": "Twitter"
+      },
+      {
+        "platform": "Instagram",
+        "url": "#",
+        "icon": "Instagram"
+      }
+    ]
+  },
+  "about": {
+    "bio": "I'm a Computer Science Engineering student at VIT Chennai with a passion for AI/ML, quantum computing, and space technology. Currently maintaining a CGPA of 9.28/10, I focus on building innovative solutions that bridge technology gaps and solve real-world problems.",
+    "focus": [
+      "Developing AI-powered applications for healthcare and customer service",
+      "Exploring quantum computing and cryptography applications",
+      "Building scalable web applications with modern frameworks",
+      "Contributing to space technology and drone simulation projects"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Fluent",
+        "level": 95,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Hindi",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇮🇳"
+      },
+      {
+        "name": "Bengali",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇮🇳"
+      }
+    ],
+    "interests": [
+      "Quantum Computing",
+      "Space Technology",
+      "AI/ML",
+      "Drone Technology",
+      "Cloud Computing",
+      "Cryptography"
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Credentials",
+      "href": "#credentials"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Space Tech Intern",
+      "company": "India Space Lab Summer Internship 2025",
+      "period": "June - July 2025",
+      "description": "Selected through competitive exam for national-level internship program. Worked on cutting-edge space technology projects including drone and satellite simulation, with hands-on experience in CubeSat development.",
+      "achievements": [
+        "Built and simulated drones and satellites for space applications",
+        "Contributed to CubeSat project development and testing",
+        "Gained expertise in rocketry principles and space mission design",
+        "Developed skills in remote sensing (GIS) and astronomical observations"
+      ],
+      "technologies": ["Drone Simulation", "CubeSat", "GIS", "Remote Sensing", "Rocketry"]
+    },
+    {
+      "title": "Research Intern",
+      "company": "Summer Research Internship Programme (SRIP), VIT Chennai",
+      "period": "May - July 2025",
+      "description": "Focused on generative AI technologies and their practical applications. Developed multiple AI-powered solutions addressing real-world communication and support challenges.",
+      "achievements": [
+        "Developed MediMid - AI platform breaking language barriers in healthcare consultations",
+        "Created CS Agent - intelligent customer support system with high accuracy",
+        "Built GeetaGPT - context-aware conversational AI for spiritual guidance",
+        "Gained comprehensive knowledge of generative AI technologies and implementation"
+      ],
+      "technologies": ["Generative AI", "NLP", "Python", "Machine Learning", "API Development"]
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "IBM Quantum Challenge 2024 Achievement (Advanced)",
+        "issuer": "IBM",
+        "date": "2024",
+        "logo": "/ibm-logo.png"
+      },
+      {
+        "name": "IBM GEN AI Using IBM WatsonX",
+        "issuer": "IBM",
+        "date": "2024",
+        "logo": "/ibm-logo.png"
+      },
+      {
+        "name": "Machine Learning Specialization",
+        "issuer": "Stanford University & DeepLearning.AI (Andrew Ng)",
+        "date": "2024",
+        "logo": "/stanford-logo.png"
+      },
+      {
+        "name": "Python for Data Science, AI & Development",
+        "issuer": "IBM",
+        "date": "2024",
+        "logo": "/ibm-logo.png"
+      },
+      {
+        "name": "Introduction to Quantum Computing",
+        "issuer": "IBM",
+        "date": "2024",
+        "logo": "/ibm-logo.png"
+      },
+      {
+        "name": "Deep Learning Specialization",
+        "issuer": "DeepLearning.AI",
+        "date": "2024",
+        "logo": "/deeplearning-ai-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Technology (B.Tech) in Computer Science Engineering",
+        "institution": "Vellore Institute of Technology (VIT), Chennai",
+        "year": "Aug 2023 - Jul 2027",
+        "logo": "/vit-logo.png"
+      }
+    ],
+    "skills": [
+      "Quantum Computing",
+      "AI/ML",
+      "Cloud Computing",
+      "Full Stack Development",
+      "Space Technology",
+      "Drone Simulation"
+    ]
+  },
+  "technicalSkills": {
+    "languages": ["Qiskit", "Python", "C", "C++", "Java", "JavaScript", "HTML", "CSS"],
+    "frameworks": ["React.js", "Next.js", "Node.js", "Flask"],
+    "databases": ["Microsoft SQL", "MySQL"],
+    "cloudAndTools": ["Azure", "AWS", "Git", "Docker", "Cirq"],
+    "specializations": ["Quantum Computing", "Quantum Cryptography", "AI/ML", "Space Technology"]
+  }
+}
